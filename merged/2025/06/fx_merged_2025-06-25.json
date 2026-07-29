@@ -1,0 +1,1521 @@
+{
+  "meta": {
+    "hana": {
+      "baseDate": "2025-06-25",
+      "announcedAt": "2025-06-26T07:54:25",
+      "queriedAt": "2026-07-27T21:47:26",
+      "sequence": 1085,
+      "requestedDate": "2025-06-25"
+    },
+    "kb": {
+      "baseDate": "2025-06-25",
+      "announcedAt": "2025-06-25T04:58:21",
+      "queriedAt": "2026-07-27T21:47:27",
+      "sequence": 809,
+      "requestedDate": "2025-06-25"
+    }
+  },
+  "rates": {
+    "AED": {
+      "hana": {
+        "code": "AED",
+        "country": "아랍에미리트공화국",
+        "unit": 1,
+        "rawTitle": "아랍에미리트공화국 AED",
+        "baseRate": 370.59,
+        "cashBuy": 390.97,
+        "cashSell": 345.02,
+        "send": 374.29,
+        "receive": 366.89,
+        "usConvertRate": 0.2723
+      },
+      "kb": {
+        "code": "AED",
+        "country": "아랍에미리트",
+        "unit": 1,
+        "rawTitle": "아랍에미리트(디르함)",
+        "baseRate": 370.21,
+        "cashBuy": 388.72,
+        "cashSell": 344.3,
+        "send": 373.91,
+        "receive": 366.51,
+        "usConvertRate": 0.2723
+      }
+    },
+    "ARS": {
+      "hana": null,
+      "kb": {
+        "code": "ARS",
+        "country": "아르헨티나",
+        "unit": 1,
+        "rawTitle": "아르헨티나(페소)",
+        "baseRate": 1.16,
+        "cashBuy": 1.16,
+        "cashSell": 1.16,
+        "send": 1.17,
+        "receive": 1.15,
+        "usConvertRate": 0.0009
+      }
+    },
+    "AUD": {
+      "hana": {
+        "code": "AUD",
+        "country": "호주",
+        "unit": 1,
+        "rawTitle": "호주 AUD",
+        "baseRate": 886.42,
+        "cashBuy": 903.88,
+        "cashSell": 868.96,
+        "send": 895.28,
+        "receive": 877.56,
+        "usConvertRate": 0.6513
+      },
+      "kb": {
+        "code": "AUD",
+        "country": "호주",
+        "unit": 1,
+        "rawTitle": "호주(달러)",
+        "baseRate": 885.37,
+        "cashBuy": 902.98,
+        "cashSell": 867.76,
+        "send": 894.22,
+        "receive": 876.52,
+        "usConvertRate": 0.6512
+      }
+    },
+    "BDT": {
+      "hana": {
+        "code": "BDT",
+        "country": "방글라데시",
+        "unit": 1,
+        "rawTitle": "방글라데시 BDT",
+        "baseRate": 11.13,
+        "cashBuy": 0.0,
+        "cashSell": 0.0,
+        "send": 0.0,
+        "receive": 0.0,
+        "usConvertRate": 0.0082
+      },
+      "kb": {
+        "code": "BDT",
+        "country": "방글라데시",
+        "unit": 1,
+        "rawTitle": "방글라데시(타카)",
+        "baseRate": 11.12,
+        "cashBuy": 12.0,
+        "cashSell": 10.24,
+        "send": 11.23,
+        "receive": 11.01,
+        "usConvertRate": 0.0082
+      }
+    },
+    "BHD": {
+      "hana": {
+        "code": "BHD",
+        "country": "바레인",
+        "unit": 1,
+        "rawTitle": "바레인 BHD",
+        "baseRate": 3607.88,
+        "cashBuy": 3838.78,
+        "cashSell": 3319.25,
+        "send": 3643.95,
+        "receive": 3571.81,
+        "usConvertRate": 2.6509
+      },
+      "kb": {
+        "code": "BHD",
+        "country": "바레인",
+        "unit": 1,
+        "rawTitle": "바레인(디나르)",
+        "baseRate": 3605.41,
+        "cashBuy": 3821.73,
+        "cashSell": 3316.98,
+        "send": 3641.46,
+        "receive": 3569.36,
+        "usConvertRate": 2.6518
+      }
+    },
+    "BND": {
+      "hana": {
+        "code": "BND",
+        "country": "브루나이",
+        "unit": 1,
+        "rawTitle": "브루나이 BND",
+        "baseRate": 1064.4,
+        "cashBuy": 1106.97,
+        "cashSell": 1000.54,
+        "send": 0.0,
+        "receive": 0.0,
+        "usConvertRate": 0.7821
+      },
+      "kb": {
+        "code": "BND",
+        "country": "브루나이",
+        "unit": 1,
+        "rawTitle": "브루나이(달러)",
+        "baseRate": 1062.15,
+        "cashBuy": 1104.63,
+        "cashSell": 998.43,
+        "send": 1072.77,
+        "receive": 1051.53,
+        "usConvertRate": 0.7812
+      }
+    },
+    "BRL": {
+      "hana": {
+        "code": "BRL",
+        "country": "브라질",
+        "unit": 1,
+        "rawTitle": "브라질 BRL",
+        "baseRate": 244.86,
+        "cashBuy": 269.83,
+        "cashSell": 220.38,
+        "send": 0.0,
+        "receive": 241.93,
+        "usConvertRate": 0.1799
+      },
+      "kb": {
+        "code": "BRL",
+        "country": "브라질",
+        "unit": 1,
+        "rawTitle": "브라질(레알)",
+        "baseRate": 246.69,
+        "cashBuy": 266.42,
+        "cashSell": 226.96,
+        "send": 246.69,
+        "receive": 246.69,
+        "usConvertRate": 0.1814
+      }
+    },
+    "CAD": {
+      "hana": {
+        "code": "CAD",
+        "country": "캐나다",
+        "unit": 1,
+        "rawTitle": "캐나다 CAD",
+        "baseRate": 991.84,
+        "cashBuy": 1011.37,
+        "cashSell": 972.31,
+        "send": 1001.75,
+        "receive": 981.93,
+        "usConvertRate": 0.7288
+      },
+      "kb": {
+        "code": "CAD",
+        "country": "캐나다",
+        "unit": 1,
+        "rawTitle": "캐나다(달러)",
+        "baseRate": 990.67,
+        "cashBuy": 1010.38,
+        "cashSell": 970.96,
+        "send": 1000.57,
+        "receive": 980.77,
+        "usConvertRate": 0.7286
+      }
+    },
+    "CHF": {
+      "hana": {
+        "code": "CHF",
+        "country": "스위스",
+        "unit": 1,
+        "rawTitle": "스위스 CHF",
+        "baseRate": 1691.42,
+        "cashBuy": 1724.74,
+        "cashSell": 1658.1,
+        "send": 1708.33,
+        "receive": 1674.51,
+        "usConvertRate": 1.2428
+      },
+      "kb": {
+        "code": "CHF",
+        "country": "스위스",
+        "unit": 1,
+        "rawTitle": "스위스(프랑)",
+        "baseRate": 1690.41,
+        "cashBuy": 1724.04,
+        "cashSell": 1656.78,
+        "send": 1707.31,
+        "receive": 1673.51,
+        "usConvertRate": 1.2433
+      }
+    },
+    "CLP": {
+      "hana": {
+        "code": "CLP",
+        "country": "칠레",
+        "unit": 1,
+        "rawTitle": "칠레 CLP",
+        "baseRate": 1.45,
+        "cashBuy": 1.59,
+        "cashSell": 1.31,
+        "send": 0.0,
+        "receive": 0.0,
+        "usConvertRate": 0.0011
+      },
+      "kb": {
+        "code": "CLP",
+        "country": "칠레",
+        "unit": 1,
+        "rawTitle": "칠레(페소)",
+        "baseRate": 1.45,
+        "cashBuy": 1.45,
+        "cashSell": 1.45,
+        "send": 1.46,
+        "receive": 1.44,
+        "usConvertRate": 0.0011
+      }
+    },
+    "CNY": {
+      "hana": {
+        "code": "CNY",
+        "country": "중국",
+        "unit": 1,
+        "rawTitle": "중국 CNY",
+        "baseRate": 189.78,
+        "cashBuy": 199.26,
+        "cashSell": 180.3,
+        "send": 191.67,
+        "receive": 187.89,
+        "usConvertRate": 0.1394
+      },
+      "kb": {
+        "code": "CNY",
+        "country": "중국",
+        "unit": 1,
+        "rawTitle": "중국(위안)",
+        "baseRate": 189.57,
+        "cashBuy": 200.94,
+        "cashSell": 180.1,
+        "send": 191.46,
+        "receive": 187.68,
+        "usConvertRate": 0.1394
+      }
+    },
+    "COP": {
+      "hana": {
+        "code": "COP",
+        "country": "콜롬비아",
+        "unit": 1,
+        "rawTitle": "콜롬비아 COP",
+        "baseRate": 0.34,
+        "cashBuy": 0.0,
+        "cashSell": 0.0,
+        "send": 0.0,
+        "receive": 0.0,
+        "usConvertRate": 0.0002
+      },
+      "kb": {
+        "code": "COP",
+        "country": "콜롬비아",
+        "unit": 1,
+        "rawTitle": "콜롬비아(페소)",
+        "baseRate": 0.33,
+        "cashBuy": 0.33,
+        "cashSell": 0.33,
+        "send": 0.33,
+        "receive": 0.33,
+        "usConvertRate": 0.0002
+      }
+    },
+    "CZK": {
+      "hana": {
+        "code": "CZK",
+        "country": "체코",
+        "unit": 1,
+        "rawTitle": "체코 CZK",
+        "baseRate": 64.11,
+        "cashBuy": 69.55,
+        "cashSell": 58.35,
+        "send": 64.81,
+        "receive": 63.41,
+        "usConvertRate": 0.0471
+      },
+      "kb": {
+        "code": "CZK",
+        "country": "체코",
+        "unit": 1,
+        "rawTitle": "체코(코루나)",
+        "baseRate": 63.7,
+        "cashBuy": 68.15,
+        "cashSell": 57.97,
+        "send": 64.33,
+        "receive": 63.07,
+        "usConvertRate": 0.0469
+      }
+    },
+    "DKK": {
+      "hana": {
+        "code": "DKK",
+        "country": "덴마크",
+        "unit": 1,
+        "rawTitle": "덴마크 DKK",
+        "baseRate": 212.69,
+        "cashBuy": 219.7,
+        "cashSell": 200.57,
+        "send": 214.81,
+        "receive": 210.57,
+        "usConvertRate": 0.1563
+      },
+      "kb": {
+        "code": "DKK",
+        "country": "덴마크",
+        "unit": 1,
+        "rawTitle": "덴마크(크로네)",
+        "baseRate": 211.77,
+        "cashBuy": 217.06,
+        "cashSell": 206.48,
+        "send": 213.88,
+        "receive": 209.66,
+        "usConvertRate": 0.1558
+      }
+    },
+    "DZD": {
+      "hana": {
+        "code": "DZD",
+        "country": "알제리",
+        "unit": 1,
+        "rawTitle": "알제리 DZD",
+        "baseRate": 10.49,
+        "cashBuy": 0.0,
+        "cashSell": 0.0,
+        "send": 0.0,
+        "receive": 0.0,
+        "usConvertRate": 0.0077
+      },
+      "kb": null
+    },
+    "EGP": {
+      "hana": {
+        "code": "EGP",
+        "country": "이집트",
+        "unit": 1,
+        "rawTitle": "이집트 EGP",
+        "baseRate": 27.27,
+        "cashBuy": 0.0,
+        "cashSell": 0.0,
+        "send": 0.0,
+        "receive": 0.0,
+        "usConvertRate": 0.02
+      },
+      "kb": {
+        "code": "EGP",
+        "country": "이집트",
+        "unit": 1,
+        "rawTitle": "이집트(파운드)",
+        "baseRate": 27.16,
+        "cashBuy": 29.33,
+        "cashSell": 25.26,
+        "send": 27.43,
+        "receive": 26.89,
+        "usConvertRate": 0.02
+      }
+    },
+    "ETB": {
+      "hana": {
+        "code": "ETB",
+        "country": "에티오피아",
+        "unit": 1,
+        "rawTitle": "에티오피아 ETB",
+        "baseRate": 9.88,
+        "cashBuy": 0.0,
+        "cashSell": 0.0,
+        "send": 0.0,
+        "receive": 0.0,
+        "usConvertRate": 0.0073
+      },
+      "kb": {
+        "code": "ETB",
+        "country": "에티오피아",
+        "unit": 1,
+        "rawTitle": "에티오피아(비르)",
+        "baseRate": 9.9,
+        "cashBuy": 9.9,
+        "cashSell": 9.9,
+        "send": 9.99,
+        "receive": 9.81,
+        "usConvertRate": 0.0073
+      }
+    },
+    "EUR": {
+      "hana": {
+        "code": "EUR",
+        "country": "유로",
+        "unit": 1,
+        "rawTitle": "유로 EUR",
+        "baseRate": 1586.79,
+        "cashBuy": 1618.36,
+        "cashSell": 1555.22,
+        "send": 1602.65,
+        "receive": 1570.93,
+        "usConvertRate": 1.1659
+      },
+      "kb": {
+        "code": "EUR",
+        "country": "유럽연합",
+        "unit": 1,
+        "rawTitle": "유럽연합(유로)",
+        "baseRate": 1585.57,
+        "cashBuy": 1616.96,
+        "cashSell": 1554.18,
+        "send": 1601.42,
+        "receive": 1569.72,
+        "usConvertRate": 1.1662
+      }
+    },
+    "FJD": {
+      "hana": {
+        "code": "FJD",
+        "country": "피지",
+        "unit": 1,
+        "rawTitle": "피지 FJD",
+        "baseRate": 606.12,
+        "cashBuy": 0.0,
+        "cashSell": 0.0,
+        "send": 0.0,
+        "receive": 0.0,
+        "usConvertRate": 0.4453
+      },
+      "kb": {
+        "code": "FJD",
+        "country": "피지",
+        "unit": 1,
+        "rawTitle": "피지(달러)",
+        "baseRate": 604.0,
+        "cashBuy": 604.0,
+        "cashSell": 604.0,
+        "send": 610.04,
+        "receive": 597.96,
+        "usConvertRate": 0.4442
+      }
+    },
+    "GBP": {
+      "hana": {
+        "code": "GBP",
+        "country": "영국",
+        "unit": 1,
+        "rawTitle": "영국 GBP",
+        "baseRate": 1859.94,
+        "cashBuy": 1896.58,
+        "cashSell": 1823.3,
+        "send": 1878.53,
+        "receive": 1841.35,
+        "usConvertRate": 1.3666
+      },
+      "kb": {
+        "code": "GBP",
+        "country": "영국",
+        "unit": 1,
+        "rawTitle": "영국(파운드)",
+        "baseRate": 1858.44,
+        "cashBuy": 1895.42,
+        "cashSell": 1821.46,
+        "send": 1877.02,
+        "receive": 1839.86,
+        "usConvertRate": 1.3669
+      }
+    },
+    "HKD": {
+      "hana": {
+        "code": "HKD",
+        "country": "홍콩",
+        "unit": 1,
+        "rawTitle": "홍콩 HKD",
+        "baseRate": 173.39,
+        "cashBuy": 176.8,
+        "cashSell": 169.98,
+        "send": 175.12,
+        "receive": 171.66,
+        "usConvertRate": 0.1274
+      },
+      "kb": {
+        "code": "HKD",
+        "country": "홍콩",
+        "unit": 1,
+        "rawTitle": "홍콩(달러)",
+        "baseRate": 173.2,
+        "cashBuy": 176.64,
+        "cashSell": 169.76,
+        "send": 174.93,
+        "receive": 171.47,
+        "usConvertRate": 0.1274
+      }
+    },
+    "HUF": {
+      "hana": {
+        "code": "HUF",
+        "country": "헝가리",
+        "unit": 1,
+        "rawTitle": "헝가리 HUF",
+        "baseRate": 3.96,
+        "cashBuy": 4.32,
+        "cashSell": 3.65,
+        "send": 4.0,
+        "receive": 3.92,
+        "usConvertRate": 0.0029
+      },
+      "kb": {
+        "code": "HUF",
+        "country": "헝가리",
+        "unit": 1,
+        "rawTitle": "헝가리(포린트)",
+        "baseRate": 3.93,
+        "cashBuy": 4.24,
+        "cashSell": 3.62,
+        "send": 3.96,
+        "receive": 3.9,
+        "usConvertRate": 0.0029
+      }
+    },
+    "IDR": {
+      "hana": {
+        "code": "IDR",
+        "country": "인도네시아",
+        "unit": 100,
+        "rawTitle": "인도네시아 IDR (100)",
+        "baseRate": 8.37,
+        "cashBuy": 9.2,
+        "cashSell": 7.54,
+        "send": 8.45,
+        "receive": 8.29,
+        "usConvertRate": 0.0061
+      },
+      "kb": {
+        "code": "IDR",
+        "country": "인도네시아",
+        "unit": 100,
+        "rawTitle": "인도네시아(100루피아)",
+        "baseRate": 8.35,
+        "cashBuy": 9.01,
+        "cashSell": 7.44,
+        "send": 8.43,
+        "receive": 8.27,
+        "usConvertRate": 0.0061
+      }
+    },
+    "ILS": {
+      "hana": {
+        "code": "ILS",
+        "country": "이스라엘",
+        "unit": 1,
+        "rawTitle": "이스라엘 ILS",
+        "baseRate": 399.98,
+        "cashBuy": 439.97,
+        "cashSell": 367.99,
+        "send": 0.0,
+        "receive": 0.0,
+        "usConvertRate": 0.2939
+      },
+      "kb": {
+        "code": "ILS",
+        "country": "이스라엘",
+        "unit": 1,
+        "rawTitle": "이스라엘(셰켈)",
+        "baseRate": 398.95,
+        "cashBuy": 430.86,
+        "cashSell": 367.04,
+        "send": 402.93,
+        "receive": 394.97,
+        "usConvertRate": 0.2934
+      }
+    },
+    "INR": {
+      "hana": {
+        "code": "INR",
+        "country": "인도",
+        "unit": 1,
+        "rawTitle": "인도 INR",
+        "baseRate": 15.82,
+        "cashBuy": 0.0,
+        "cashSell": 0.0,
+        "send": 16.0,
+        "receive": 15.64,
+        "usConvertRate": 0.0116
+      },
+      "kb": {
+        "code": "INR",
+        "country": "인도",
+        "unit": 1,
+        "rawTitle": "인도(루피)",
+        "baseRate": 15.82,
+        "cashBuy": 17.24,
+        "cashSell": 14.4,
+        "send": 15.97,
+        "receive": 15.67,
+        "usConvertRate": 0.0116
+      }
+    },
+    "JOD": {
+      "hana": {
+        "code": "JOD",
+        "country": "요르단",
+        "unit": 1,
+        "rawTitle": "요르단 JOD",
+        "baseRate": 1919.61,
+        "cashBuy": 2090.45,
+        "cashSell": 1766.05,
+        "send": 0.0,
+        "receive": 0.0,
+        "usConvertRate": 1.4104
+      },
+      "kb": {
+        "code": "JOD",
+        "country": "요르단",
+        "unit": 1,
+        "rawTitle": "요르단(디나르)",
+        "baseRate": 1917.63,
+        "cashBuy": 1994.33,
+        "cashSell": 1764.22,
+        "send": 1936.8,
+        "receive": 1898.46,
+        "usConvertRate": 1.4104
+      }
+    },
+    "JPY": {
+      "hana": {
+        "code": "JPY",
+        "country": "일본",
+        "unit": 100,
+        "rawTitle": "일본 JPY (100)",
+        "baseRate": 937.13,
+        "cashBuy": 953.52,
+        "cashSell": 920.74,
+        "send": 946.31,
+        "receive": 927.95,
+        "usConvertRate": 0.6886
+      },
+      "kb": {
+        "code": "JPY",
+        "country": "일본",
+        "unit": 100,
+        "rawTitle": "일본(100엔)",
+        "baseRate": 936.43,
+        "cashBuy": 952.81,
+        "cashSell": 920.05,
+        "send": 945.51,
+        "receive": 927.35,
+        "usConvertRate": 0.6888
+      }
+    },
+    "KES": {
+      "hana": {
+        "code": "KES",
+        "country": "케냐",
+        "unit": 1,
+        "rawTitle": "케냐 KES",
+        "baseRate": 10.53,
+        "cashBuy": 0.0,
+        "cashSell": 0.0,
+        "send": 0.0,
+        "receive": 0.0,
+        "usConvertRate": 0.0077
+      },
+      "kb": {
+        "code": "KES",
+        "country": "케냐",
+        "unit": 1,
+        "rawTitle": "케냐(실링)",
+        "baseRate": 10.52,
+        "cashBuy": 10.52,
+        "cashSell": 10.52,
+        "send": 10.62,
+        "receive": 10.42,
+        "usConvertRate": 0.0077
+      }
+    },
+    "KHR": {
+      "hana": {
+        "code": "KHR",
+        "country": "캄보디아",
+        "unit": 1,
+        "rawTitle": "캄보디아 KHR",
+        "baseRate": 0.34,
+        "cashBuy": 0.0,
+        "cashSell": 0.0,
+        "send": 0.0,
+        "receive": 0.0,
+        "usConvertRate": 0.0002
+      },
+      "kb": {
+        "code": "KHR",
+        "country": "캄보디아",
+        "unit": 1,
+        "rawTitle": "캄보디아(리엘)",
+        "baseRate": 0.34,
+        "cashBuy": 0.34,
+        "cashSell": 0.34,
+        "send": 0.34,
+        "receive": 0.34,
+        "usConvertRate": 0.0003
+      }
+    },
+    "KWD": {
+      "hana": {
+        "code": "KWD",
+        "country": "쿠웨이트",
+        "unit": 1,
+        "rawTitle": "쿠웨이트 KWD",
+        "baseRate": 4453.24,
+        "cashBuy": 4742.7,
+        "cashSell": 4096.99,
+        "send": 4497.77,
+        "receive": 4408.71,
+        "usConvertRate": 3.272
+      },
+      "kb": {
+        "code": "KWD",
+        "country": "쿠웨이트",
+        "unit": 1,
+        "rawTitle": "쿠웨이트(디나르)",
+        "baseRate": 4447.35,
+        "cashBuy": 4714.19,
+        "cashSell": 4091.57,
+        "send": 4491.82,
+        "receive": 4402.88,
+        "usConvertRate": 3.2711
+      }
+    },
+    "KZT": {
+      "hana": {
+        "code": "KZT",
+        "country": "카자흐스탄",
+        "unit": 1,
+        "rawTitle": "카자흐스탄 KZT",
+        "baseRate": 2.62,
+        "cashBuy": 0.0,
+        "cashSell": 0.0,
+        "send": 0.0,
+        "receive": 0.0,
+        "usConvertRate": 0.0019
+      },
+      "kb": {
+        "code": "KZT",
+        "country": "카자흐스탄",
+        "unit": 1,
+        "rawTitle": "카자흐스탄(텡게)",
+        "baseRate": 2.62,
+        "cashBuy": 2.93,
+        "cashSell": 2.31,
+        "send": 2.64,
+        "receive": 2.6,
+        "usConvertRate": 0.0019
+      }
+    },
+    "LKR": {
+      "hana": {
+        "code": "LKR",
+        "country": "스리랑카",
+        "unit": 1,
+        "rawTitle": "스리랑카 LKR",
+        "baseRate": 4.53,
+        "cashBuy": 0.0,
+        "cashSell": 0.0,
+        "send": 0.0,
+        "receive": 0.0,
+        "usConvertRate": 0.0033
+      },
+      "kb": {
+        "code": "LKR",
+        "country": "스리랑카",
+        "unit": 1,
+        "rawTitle": "스리랑카(루피)",
+        "baseRate": 4.53,
+        "cashBuy": 4.53,
+        "cashSell": 4.53,
+        "send": 4.57,
+        "receive": 4.49,
+        "usConvertRate": 0.0033
+      }
+    },
+    "LYD": {
+      "hana": {
+        "code": "LYD",
+        "country": "리비아",
+        "unit": 1,
+        "rawTitle": "리비아 LYD",
+        "baseRate": 251.29,
+        "cashBuy": 0.0,
+        "cashSell": 0.0,
+        "send": 253.8,
+        "receive": 248.78,
+        "usConvertRate": 0.1846
+      },
+      "kb": {
+        "code": "LYD",
+        "country": "리비아",
+        "unit": 1,
+        "rawTitle": "리비아(디나르)",
+        "baseRate": 250.93,
+        "cashBuy": 250.93,
+        "cashSell": 250.93,
+        "send": 253.43,
+        "receive": 248.43,
+        "usConvertRate": 0.1846
+      }
+    },
+    "MMK": {
+      "hana": {
+        "code": "MMK",
+        "country": "미얀마",
+        "unit": 1,
+        "rawTitle": "미얀마 MMK",
+        "baseRate": 0.65,
+        "cashBuy": 0.0,
+        "cashSell": 0.0,
+        "send": 0.0,
+        "receive": 0.0,
+        "usConvertRate": 0.0005
+      },
+      "kb": {
+        "code": "MMK",
+        "country": "미얀마",
+        "unit": 1,
+        "rawTitle": "미얀마(짯)",
+        "baseRate": 0.65,
+        "cashBuy": 0.65,
+        "cashSell": 0.65,
+        "send": 0.65,
+        "receive": 0.65,
+        "usConvertRate": 0.0005
+      }
+    },
+    "MNT": {
+      "hana": {
+        "code": "MNT",
+        "country": "몽골",
+        "unit": 1,
+        "rawTitle": "몽골 MNT",
+        "baseRate": 0.38,
+        "cashBuy": 0.0,
+        "cashSell": 0.0,
+        "send": 0.0,
+        "receive": 0.0,
+        "usConvertRate": 0.0003
+      },
+      "kb": {
+        "code": "MNT",
+        "country": "몽골",
+        "unit": 1,
+        "rawTitle": "몽골(투그릭)",
+        "baseRate": 0.38,
+        "cashBuy": null,
+        "cashSell": null,
+        "send": null,
+        "receive": null,
+        "usConvertRate": 0.0003
+      }
+    },
+    "MOP": {
+      "hana": {
+        "code": "MOP",
+        "country": "마카오",
+        "unit": 1,
+        "rawTitle": "마카오 MOP",
+        "baseRate": 168.21,
+        "cashBuy": 0.0,
+        "cashSell": 0.0,
+        "send": 0.0,
+        "receive": 0.0,
+        "usConvertRate": 0.1236
+      },
+      "kb": {
+        "code": "MOP",
+        "country": "마카오",
+        "unit": 1,
+        "rawTitle": "마카오(파타카)",
+        "baseRate": 167.9,
+        "cashBuy": 167.9,
+        "cashSell": 167.9,
+        "send": 169.57,
+        "receive": 166.23,
+        "usConvertRate": 0.1235
+      }
+    },
+    "MXN": {
+      "hana": {
+        "code": "MXN",
+        "country": "멕시코",
+        "unit": 1,
+        "rawTitle": "멕시코 MXN",
+        "baseRate": 71.89,
+        "cashBuy": 79.43,
+        "cashSell": 64.35,
+        "send": 72.6,
+        "receive": 71.18,
+        "usConvertRate": 0.0528
+      },
+      "kb": {
+        "code": "MXN",
+        "country": "멕시코",
+        "unit": 1,
+        "rawTitle": "멕시코(페소)",
+        "baseRate": 71.58,
+        "cashBuy": 77.3,
+        "cashSell": 65.86,
+        "send": 72.29,
+        "receive": 70.87,
+        "usConvertRate": 0.0526
+      }
+    },
+    "MYR": {
+      "hana": {
+        "code": "MYR",
+        "country": "말레이시아",
+        "unit": 1,
+        "rawTitle": "말레이시아 MYR",
+        "baseRate": 321.1,
+        "cashBuy": 344.86,
+        "cashSell": 297.34,
+        "send": 0.0,
+        "receive": 317.89,
+        "usConvertRate": 0.2359
+      },
+      "kb": {
+        "code": "MYR",
+        "country": "말레이시아",
+        "unit": 1,
+        "rawTitle": "말레이시아(링깃)",
+        "baseRate": 320.77,
+        "cashBuy": 340.01,
+        "cashSell": 295.11,
+        "send": 323.97,
+        "receive": 317.57,
+        "usConvertRate": 0.2359
+      }
+    },
+    "NOK": {
+      "hana": {
+        "code": "NOK",
+        "country": "노르웨이",
+        "unit": 1,
+        "rawTitle": "노르웨이 NOK",
+        "baseRate": 134.34,
+        "cashBuy": 138.77,
+        "cashSell": 126.69,
+        "send": 135.68,
+        "receive": 133.0,
+        "usConvertRate": 0.0987
+      },
+      "kb": {
+        "code": "NOK",
+        "country": "노르웨이",
+        "unit": 1,
+        "rawTitle": "노르웨이(크로네)",
+        "baseRate": 133.95,
+        "cashBuy": 137.29,
+        "cashSell": 130.61,
+        "send": 135.28,
+        "receive": 132.62,
+        "usConvertRate": 0.0985
+      }
+    },
+    "NPR": {
+      "hana": {
+        "code": "NPR",
+        "country": "네팔",
+        "unit": 1,
+        "rawTitle": "네팔 NPR",
+        "baseRate": 9.88,
+        "cashBuy": 0.0,
+        "cashSell": 0.0,
+        "send": 0.0,
+        "receive": 0.0,
+        "usConvertRate": 0.0073
+      },
+      "kb": {
+        "code": "NPR",
+        "country": "네팔",
+        "unit": 1,
+        "rawTitle": "네팔(루피)",
+        "baseRate": 9.88,
+        "cashBuy": 9.88,
+        "cashSell": 9.88,
+        "send": 9.97,
+        "receive": 9.79,
+        "usConvertRate": 0.0073
+      }
+    },
+    "NZD": {
+      "hana": {
+        "code": "NZD",
+        "country": "뉴질랜드",
+        "unit": 1,
+        "rawTitle": "뉴질랜드 NZD",
+        "baseRate": 822.25,
+        "cashBuy": 838.44,
+        "cashSell": 806.06,
+        "send": 830.47,
+        "receive": 814.03,
+        "usConvertRate": 0.6042
+      },
+      "kb": {
+        "code": "NZD",
+        "country": "뉴질랜드",
+        "unit": 1,
+        "rawTitle": "뉴질랜드(달러)",
+        "baseRate": 821.2,
+        "cashBuy": 837.54,
+        "cashSell": 804.86,
+        "send": 829.41,
+        "receive": 812.99,
+        "usConvertRate": 0.604
+      }
+    },
+    "OMR": {
+      "hana": {
+        "code": "OMR",
+        "country": "오만",
+        "unit": 1,
+        "rawTitle": "오만 OMR",
+        "baseRate": 3534.79,
+        "cashBuy": 3782.22,
+        "cashSell": 3287.36,
+        "send": 0.0,
+        "receive": 0.0,
+        "usConvertRate": 2.5972
+      },
+      "kb": {
+        "code": "OMR",
+        "country": "오만",
+        "unit": 1,
+        "rawTitle": "오만(리얄)",
+        "baseRate": 3531.15,
+        "cashBuy": 3531.15,
+        "cashSell": 3531.15,
+        "send": 3566.46,
+        "receive": 3495.84,
+        "usConvertRate": 2.5972
+      }
+    },
+    "PHP": {
+      "hana": {
+        "code": "PHP",
+        "country": "필리핀",
+        "unit": 1,
+        "rawTitle": "필리핀 PHP",
+        "baseRate": 24.01,
+        "cashBuy": 26.41,
+        "cashSell": 22.05,
+        "send": 24.25,
+        "receive": 23.77,
+        "usConvertRate": 0.0176
+      },
+      "kb": {
+        "code": "PHP",
+        "country": "필리핀",
+        "unit": 1,
+        "rawTitle": "필리핀(페소)",
+        "baseRate": 23.97,
+        "cashBuy": 26.36,
+        "cashSell": 22.3,
+        "send": 24.2,
+        "receive": 23.74,
+        "usConvertRate": 0.0176
+      }
+    },
+    "PKR": {
+      "hana": {
+        "code": "PKR",
+        "country": "파키스탄",
+        "unit": 1,
+        "rawTitle": "파키스탄 PKR",
+        "baseRate": 4.8,
+        "cashBuy": 0.0,
+        "cashSell": 0.0,
+        "send": 0.0,
+        "receive": 0.0,
+        "usConvertRate": 0.0035
+      },
+      "kb": {
+        "code": "PKR",
+        "country": "파키스탄",
+        "unit": 1,
+        "rawTitle": "파키스탄(루피)",
+        "baseRate": 4.79,
+        "cashBuy": 5.17,
+        "cashSell": 4.41,
+        "send": 4.83,
+        "receive": 4.75,
+        "usConvertRate": 0.0035
+      }
+    },
+    "PLN": {
+      "hana": {
+        "code": "PLN",
+        "country": "폴란드",
+        "unit": 1,
+        "rawTitle": "폴란드 PLN",
+        "baseRate": 373.34,
+        "cashBuy": 403.2,
+        "cashSell": 343.48,
+        "send": 377.44,
+        "receive": 369.24,
+        "usConvertRate": 0.2743
+      },
+      "kb": {
+        "code": "PLN",
+        "country": "폴란드",
+        "unit": 1,
+        "rawTitle": "폴란드(즈워티)",
+        "baseRate": 371.15,
+        "cashBuy": 400.84,
+        "cashSell": 345.17,
+        "send": 374.86,
+        "receive": 367.44,
+        "usConvertRate": 0.273
+      }
+    },
+    "QAR": {
+      "hana": {
+        "code": "QAR",
+        "country": "카타르",
+        "unit": 1,
+        "rawTitle": "카타르 QAR",
+        "baseRate": 373.39,
+        "cashBuy": 0.0,
+        "cashSell": 0.0,
+        "send": 0.0,
+        "receive": 0.0,
+        "usConvertRate": 0.2743
+      },
+      "kb": {
+        "code": "QAR",
+        "country": "카타르",
+        "unit": 1,
+        "rawTitle": "카타르(리얄)",
+        "baseRate": 373.0,
+        "cashBuy": null,
+        "cashSell": null,
+        "send": null,
+        "receive": null,
+        "usConvertRate": 0.2743
+      }
+    },
+    "RON": {
+      "hana": {
+        "code": "RON",
+        "country": "루마니아",
+        "unit": 1,
+        "rawTitle": "루마니아 RON",
+        "baseRate": 313.46,
+        "cashBuy": 0.0,
+        "cashSell": 0.0,
+        "send": 316.9,
+        "receive": 310.02,
+        "usConvertRate": 0.2303
+      },
+      "kb": {
+        "code": "RON",
+        "country": "루마니아",
+        "unit": 1,
+        "rawTitle": "루마니아(레우)",
+        "baseRate": 312.58,
+        "cashBuy": 312.58,
+        "cashSell": 312.58,
+        "send": 315.7,
+        "receive": 309.46,
+        "usConvertRate": 0.2299
+      }
+    },
+    "RUB": {
+      "hana": {
+        "code": "RUB",
+        "country": "러시아",
+        "unit": 1,
+        "rawTitle": "러시아 RUB",
+        "baseRate": 17.39,
+        "cashBuy": 19.04,
+        "cashSell": 14.35,
+        "send": 17.99,
+        "receive": 16.79,
+        "usConvertRate": 0.0128
+      },
+      "kb": {
+        "code": "RUB",
+        "country": "러시아",
+        "unit": 1,
+        "rawTitle": "러시아(루블)",
+        "baseRate": 17.35,
+        "cashBuy": 18.73,
+        "cashSell": 15.27,
+        "send": 17.52,
+        "receive": 17.18,
+        "usConvertRate": 0.0128
+      }
+    },
+    "SAR": {
+      "hana": {
+        "code": "SAR",
+        "country": "사우디아라비아",
+        "unit": 1,
+        "rawTitle": "사우디아라비아 SAR",
+        "baseRate": 362.88,
+        "cashBuy": 385.74,
+        "cashSell": 337.85,
+        "send": 366.5,
+        "receive": 359.26,
+        "usConvertRate": 0.2666
+      },
+      "kb": {
+        "code": "SAR",
+        "country": "사우디아라비아",
+        "unit": 1,
+        "rawTitle": "사우디아라비아(리얄)",
+        "baseRate": 362.43,
+        "cashBuy": 380.55,
+        "cashSell": 337.06,
+        "send": 366.05,
+        "receive": 358.81,
+        "usConvertRate": 0.2666
+      }
+    },
+    "SEK": {
+      "hana": {
+        "code": "SEK",
+        "country": "스웨덴",
+        "unit": 1,
+        "rawTitle": "스웨덴 SEK",
+        "baseRate": 143.5,
+        "cashBuy": 148.23,
+        "cashSell": 135.33,
+        "send": 144.93,
+        "receive": 142.07,
+        "usConvertRate": 0.1054
+      },
+      "kb": {
+        "code": "SEK",
+        "country": "스웨덴",
+        "unit": 1,
+        "rawTitle": "스웨덴(크로나)",
+        "baseRate": 142.94,
+        "cashBuy": 146.51,
+        "cashSell": 139.37,
+        "send": 144.36,
+        "receive": 141.52,
+        "usConvertRate": 0.1051
+      }
+    },
+    "SGD": {
+      "hana": {
+        "code": "SGD",
+        "country": "싱가포르",
+        "unit": 1,
+        "rawTitle": "싱가포르 SGD",
+        "baseRate": 1064.4,
+        "cashBuy": 1085.58,
+        "cashSell": 1043.22,
+        "send": 1075.04,
+        "receive": 1053.76,
+        "usConvertRate": 0.7821
+      },
+      "kb": {
+        "code": "SGD",
+        "country": "싱가포르",
+        "unit": 1,
+        "rawTitle": "싱가포르(달러)",
+        "baseRate": 1063.93,
+        "cashBuy": 1085.2,
+        "cashSell": 1042.66,
+        "send": 1074.56,
+        "receive": 1053.3,
+        "usConvertRate": 0.7825
+      }
+    },
+    "THB": {
+      "hana": {
+        "code": "THB",
+        "country": "태국",
+        "unit": 1,
+        "rawTitle": "태국 THB",
+        "baseRate": 41.83,
+        "cashBuy": 43.92,
+        "cashSell": 39.33,
+        "send": 42.24,
+        "receive": 41.42,
+        "usConvertRate": 0.0307
+      },
+      "kb": {
+        "code": "THB",
+        "country": "태국",
+        "unit": 1,
+        "rawTitle": "태국(바트)",
+        "baseRate": 41.69,
+        "cashBuy": 44.17,
+        "cashSell": 38.78,
+        "send": 42.1,
+        "receive": 41.28,
+        "usConvertRate": 0.0307
+      }
+    },
+    "TRY": {
+      "hana": {
+        "code": "TRY",
+        "country": "튀르키예",
+        "unit": 1,
+        "rawTitle": "튀르키예 TRY",
+        "baseRate": 34.23,
+        "cashBuy": 0.0,
+        "cashSell": 0.0,
+        "send": 34.6,
+        "receive": 33.86,
+        "usConvertRate": 0.0252
+      },
+      "kb": {
+        "code": "TRY",
+        "country": "튀르키예",
+        "unit": 1,
+        "rawTitle": "튀르키예(리라)",
+        "baseRate": 34.33,
+        "cashBuy": 37.07,
+        "cashSell": 31.59,
+        "send": 34.67,
+        "receive": 33.99,
+        "usConvertRate": 0.0253
+      }
+    },
+    "TWD": {
+      "hana": {
+        "code": "TWD",
+        "country": "대만",
+        "unit": 1,
+        "rawTitle": "대만 TWD",
+        "baseRate": 46.34,
+        "cashBuy": 52.41,
+        "cashSell": 41.71,
+        "send": 0.0,
+        "receive": 0.0,
+        "usConvertRate": 0.034
+      },
+      "kb": {
+        "code": "TWD",
+        "country": "대만",
+        "unit": 1,
+        "rawTitle": "대만(달러)",
+        "baseRate": 46.29,
+        "cashBuy": 49.99,
+        "cashSell": 43.05,
+        "send": 46.75,
+        "receive": 45.83,
+        "usConvertRate": 0.034
+      }
+    },
+    "TZS": {
+      "hana": {
+        "code": "TZS",
+        "country": "탄자니아",
+        "unit": 1,
+        "rawTitle": "탄자니아 TZS",
+        "baseRate": 0.51,
+        "cashBuy": 0.0,
+        "cashSell": 0.0,
+        "send": 0.0,
+        "receive": 0.0,
+        "usConvertRate": 0.0004
+      },
+      "kb": null
+    },
+    "USD": {
+      "hana": {
+        "code": "USD",
+        "country": "미국",
+        "unit": 1,
+        "rawTitle": "미국 USD",
+        "baseRate": 1361.0,
+        "cashBuy": 1384.81,
+        "cashSell": 1337.19,
+        "send": 1374.3,
+        "receive": 1347.7,
+        "usConvertRate": 1.0
+      },
+      "kb": {
+        "code": "USD",
+        "country": "미국",
+        "unit": 1,
+        "rawTitle": "미국(달러)",
+        "baseRate": 1359.6,
+        "cashBuy": 1383.39,
+        "cashSell": 1335.81,
+        "send": 1372.7,
+        "receive": 1346.5,
+        "usConvertRate": 1.0
+      }
+    },
+    "UZS": {
+      "hana": {
+        "code": "UZS",
+        "country": "우즈베키스탄",
+        "unit": 1,
+        "rawTitle": "우즈베키스탄 UZS",
+        "baseRate": 0.11,
+        "cashBuy": 0.0,
+        "cashSell": 0.0,
+        "send": 0.0,
+        "receive": 0.0,
+        "usConvertRate": 0.0001
+      },
+      "kb": {
+        "code": "UZS",
+        "country": "우즈베키스탄",
+        "unit": 1,
+        "rawTitle": "우즈베키스탄(숨)",
+        "baseRate": 0.11,
+        "cashBuy": 0.11,
+        "cashSell": 0.11,
+        "send": 0.11,
+        "receive": 0.11,
+        "usConvertRate": 0.0001
+      }
+    },
+    "VND": {
+      "hana": {
+        "code": "VND",
+        "country": "베트남",
+        "unit": 100,
+        "rawTitle": "베트남 VND (100)",
+        "baseRate": 5.22,
+        "cashBuy": 5.83,
+        "cashSell": 4.61,
+        "send": 5.27,
+        "receive": 5.17,
+        "usConvertRate": 0.0038
+      },
+      "kb": {
+        "code": "VND",
+        "country": "베트남",
+        "unit": 100,
+        "rawTitle": "베트남(100동)",
+        "baseRate": 5.2,
+        "cashBuy": 5.82,
+        "cashSell": 4.58,
+        "send": 5.25,
+        "receive": 5.15,
+        "usConvertRate": 0.0038
+      }
+    },
+    "ZAR": {
+      "hana": {
+        "code": "ZAR",
+        "country": "남아공화국",
+        "unit": 1,
+        "rawTitle": "남아공화국 ZAR",
+        "baseRate": 76.67,
+        "cashBuy": 82.8,
+        "cashSell": 70.54,
+        "send": 77.59,
+        "receive": 75.75,
+        "usConvertRate": 0.0563
+      },
+      "kb": {
+        "code": "ZAR",
+        "country": "남아프리카공화국",
+        "unit": 1,
+        "rawTitle": "남아프리카공화국(랜드)",
+        "baseRate": 76.64,
+        "cashBuy": 82.77,
+        "cashSell": 70.51,
+        "send": 77.4,
+        "receive": 75.88,
+        "usConvertRate": 0.0564
+      }
+    }
+  }
+}
